@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://atinoila.github.io/TCL/sitemap_index.txt
+Sitemap: https://atinoila.github.io/ZWV/sitemap_index.txt
+Sitemap: https://atinoila.github.io/dgD/sitemap_index.txt
+Sitemap: https://atinoila.github.io/heT/sitemap_index.txt
